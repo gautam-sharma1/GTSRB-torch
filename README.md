@@ -1,5 +1,5 @@
 # GTSRB-torch
-Image classification using pytorch on German Traffic Sign data set
+Image classification using pytorch and fastai on German Traffic Sign data set
 
 ## Project: Build a Traffic Sign Recognition Program
 
