@@ -57,7 +57,7 @@ To train the model, I used a learning rate of 0.001 with 10 EPOCHS and a Batch S
 
 Here are five German traffic signs that I found on the web:
 
-![alt text](german1.jpg)![alt text](german2.jpg)![alt text](german3.jpg)
-![alt text](german4.jpg) ![alt text](german5.jpg)
+![alt text](images/german1.jpg)![alt text](images/german2.jpg)![alt text](images/german3.jpg)
+![alt text](images/german4.jpg) ![alt text](images/german5.jpg)
 
 
